@@ -7,4 +7,4 @@ A code injection bypass for GTAV BattleEye Anti-Cheat.
 
 https://github.com/user-attachments/assets/694aced1-4c54-4e4c-9789-af1d14d8caf1
 
-# No code will be provided at this very moment as I am currently working with Stand to see if they want it :p
+# This code is now private as I am now working with Stand to help them bypass BattlEye.
